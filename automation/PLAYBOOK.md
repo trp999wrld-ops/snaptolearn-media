@@ -55,6 +55,9 @@ So this job runs every day and tops up both queues. Never post anything immediat
    7. Click the last **Schedule** button and check for "scheduled".
 5. Finally, re-read the scheduled list and confirm that each new post shows twice (Facebook + Instagram) at the right time.
 
+### Meta link limit (found 28 Oct 2026)
+Without a paid Meta One subscription, the Page can only add links to 2 posts per month. Once that's used up, the composer greys out **Schedule** for any caption containing `snaptolearn.co.za`; hovering the button shows "Delete your link to finish posting". If you see that, stop the Facebook part. Do not edit captions on your own; follow whatever Trap decided (see the latest status note) and report it.
+
 ## 2. TikTok (TikTok Studio)
 1. Open `https://www.tiktok.com/tiktokstudio/content` and read it.
    - Scheduled posts show the hashtag line plus a future date such as "13 Nov, 1:00 pm".
